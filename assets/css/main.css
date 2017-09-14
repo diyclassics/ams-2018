@@ -2171,7 +2171,7 @@
 
 		.panel > * {
 			position: relative;
-			min-width: 10rem;
+			min-width: 1rem;
 		}
 
 			.panel > *.color0 {
