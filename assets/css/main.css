@@ -1517,10 +1517,10 @@
 		button.icon.circle,
 		.button.icon.circle {
 			position: relative;
-			width: 3.125rem;
-			height: 3.125rem;
-			line-height: 3.125rem;
-			text-indent: 3.125rem;
+			width: 1.75rem;
+			height: 1.75rem;
+			line-height: 1.75rem;
+			text-indent: 1.75rem;
 			border-radius: 100%;
 			overflow: hidden;
 			padding: 0;
@@ -3549,7 +3549,7 @@
 		transition-delay: 0.25s;
 		cursor: default;
 		position: relative;
-		height: 32rem;
+		height: 36rem;
 		box-shadow: 0 2rem 4rem 0.25rem rgba(46, 43, 55, 0.575);
 	}
 
