@@ -3,7 +3,7 @@ title: Ancient MakerSpaces 2018
 subtitle: Digital Tools for Classical Scholarship
 email: patrick@diyclassics.org  
 description: BASIC DESCRIPTION
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/ams-2018" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 
