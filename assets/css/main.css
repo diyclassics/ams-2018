@@ -287,7 +287,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		color: inherit;
-		border-bottom: dotted 1px;
+		border-bottom: dotted .5px;
 		text-decoration: none;
 	}
 
@@ -3670,3 +3670,9 @@
 			}
 
 	}
+
+#schedule {
+    -webkit-padding-start: 0;
+    list-style-type: none;
+    padding-left: 0;
+}
