@@ -3676,3 +3676,7 @@
     list-style-type: none;
     padding-left: 0;
 }
+
+#schedule > li {
+    margin-bottom: 4px;
+}
